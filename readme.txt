@@ -1,6 +1,4 @@
 
-
-Discord Bot with Email Verification
 This Discord bot is designed to provide email verification for users when they join your server. Upon joining, users will receive a verification email containing a link that they need to click in order to verify their email address.
 
 Prerequisites
@@ -13,7 +11,7 @@ Install the required dependencies using the following command:
 
 Copy code
 pip install -r requirements.txt
-Open the bot.py file and replace the following placeholders with your actual information:
+Open the discord.py file and replace the following placeholders with your actual information:
 
 "YOUR_EMAIL": Your email address (for sending verification emails).
 "YOUR_EMAIL_PASSWORD": Your email password (for sending verification emails).
